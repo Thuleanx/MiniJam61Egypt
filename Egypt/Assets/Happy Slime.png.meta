@@ -1,0 +1,1009 @@
+fileFormatVersion: 2
+guid: 97c239f67e3684ef6b6db89c07c56774
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1138913210931731810
+    second: Happy Slime_0
+  - first:
+      213: -8163798255554686127
+    second: Happy Slime_1
+  - first:
+      213: 8492751319958283992
+    second: Happy Slime_2
+  - first:
+      213: 7871461294838409877
+    second: Happy Slime_3
+  - first:
+      213: 285535320312114381
+    second: Happy Slime_4
+  - first:
+      213: 2663152289942196925
+    second: Happy Slime_5
+  - first:
+      213: -124076195486607895
+    second: Happy Slime_6
+  - first:
+      213: -9182812800171482568
+    second: Happy Slime_7
+  - first:
+      213: -8487191377714744366
+    second: Happy Slime_8
+  - first:
+      213: -8691510629617299021
+    second: Happy Slime_9
+  - first:
+      213: -4274490865584814590
+    second: Happy Slime_10
+  - first:
+      213: 1995834455999938437
+    second: Happy Slime_11
+  - first:
+      213: 8437224733101335225
+    second: Happy Slime_12
+  - first:
+      213: 2258611909109877782
+    second: Happy Slime_13
+  - first:
+      213: 3410641547642970977
+    second: Happy Slime_14
+  - first:
+      213: -4153495938233711391
+    second: Happy Slime_15
+  - first:
+      213: -1316531175780184903
+    second: Happy Slime_16
+  - first:
+      213: 4986599546915397487
+    second: Happy Slime_17
+  - first:
+      213: -7154816123209930568
+    second: Happy Slime_18
+  - first:
+      213: -4893411990422009321
+    second: Happy Slime_19
+  - first:
+      213: -706857677058225916
+    second: Happy Slime_20
+  - first:
+      213: 1045176372911870810
+    second: Happy Slime_21
+  - first:
+      213: 2137588038907895128
+    second: Happy Slime_22
+  - first:
+      213: -95055951179379510
+    second: Happy Slime_23
+  - first:
+      213: 6892553499184917349
+    second: Happy Slime_24
+  - first:
+      213: -3152314772026927699
+    second: Happy Slime_25
+  - first:
+      213: 7300831512890525578
+    second: Happy Slime_26
+  - first:
+      213: -2781136318821080048
+    second: Happy Slime_27
+  - first:
+      213: 6924411328899740984
+    second: Happy Slime_28
+  - first:
+      213: 309796761352743235
+    second: Happy Slime_29
+  - first:
+      213: -8361184635508192136
+    second: Happy Slime_30
+  - first:
+      213: 5497020619162604163
+    second: Happy Slime_31
+  - first:
+      213: 2498583068770031589
+    second: Happy Slime_32
+  - first:
+      213: 6596080647675695762
+    second: Happy Slime_0
+  - first:
+      213: -6930282998681588469
+    second: Happy Slime_1
+  - first:
+      213: -4301767546333254375
+    second: Happy Slime_2
+  - first:
+      213: -8294367365212568600
+    second: Happy Slime_3
+  - first:
+      213: -1405731777521843221
+    second: Happy Slime_4
+  - first:
+      213: -3472918202472849931
+    second: Happy Slime_5
+  - first:
+      213: -2816912799719051643
+    second: Happy Slime_6
+  - first:
+      213: 2537664725679739474
+    second: Happy Slime_7
+  - first:
+      213: -118418474055657141
+    second: Happy Slime_8
+  - first:
+      213: -6344197370433017831
+    second: Happy Slime_9
+  - first:
+      213: -2363862169333264696
+    second: Happy Slime_10
+  - first:
+      213: -7356130266275312061
+    second: Happy Slime_11
+  - first:
+      213: -7032824504236796341
+    second: Happy Slime_12
+  - first:
+      213: 5418030847590302390
+    second: Happy Slime_13
+  - first:
+      213: -4949372576821380705
+    second: Happy Slime_14
+  - first:
+      213: -8586508636075488977
+    second: Happy Slime_15
+  - first:
+      213: 4002372393910568656
+    second: Happy Slime_16
+  - first:
+      213: -124228898333338797
+    second: Happy Slime_17
+  - first:
+      213: 5819033034705716789
+    second: Happy Slime_18
+  - first:
+      213: -1718918519974137071
+    second: Happy Slime_19
+  - first:
+      213: 7624982244450118730
+    second: Happy Slime_20
+  - first:
+      213: 2264540422908994971
+    second: Happy Slime_21
+  - first:
+      213: 7287695509701317050
+    second: Happy Slime_22
+  - first:
+      213: -3903206057900003535
+    second: Happy Slime_23
+  - first:
+      213: 8879654126290474347
+    second: Happy Slime_24
+  - first:
+      213: -733324172585975781
+    second: Happy Slime_25
+  - first:
+      213: 3931789153492258830
+    second: Happy Slime_26
+  - first:
+      213: 5347831919867778799
+    second: Happy Slime_27
+  - first:
+      213: 5323750194905981196
+    second: Happy Slime_28
+  - first:
+      213: 3924971211862730622
+    second: Happy Slime_29
+  - first:
+      213: 8753646897196731431
+    second: Happy Slime_30
+  - first:
+      213: 4784465478742993198
+    second: Happy Slime_31
+  - first:
+      213: -947320693069220883
+    second: Happy Slime_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Happy Slime_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292d98ac66cf98b50800000000000000
+      internalID: 6596080647675695762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0da7a6b450b2df90800000000000000
+      internalID: -6930282998681588469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da086553d0d44c0800000000000000
+      internalID: -4301767546333254375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e389e7a3dc74ec80800000000000000
+      internalID: -8294367365212568600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3055f6566dd7ce0800000000000000
+      internalID: -1405731777521843221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1e9f8b47bdcfc0800000000000000
+      internalID: -3472918202472849931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eae79bbb058e8d0800000000000000
+      internalID: -2816912799719051643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 149
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2521e257f98973320800000000000000
+      internalID: 2537664725679739474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 149
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b499117760b4b5ef0800000000000000
+      internalID: -118418474055657141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 149
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9186f56ca12e4f7a0800000000000000
+      internalID: -6344197370433017831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_10
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 149
+        width: 20
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce08ea91efd13fd0800000000000000
+      internalID: -2363862169333264696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 128
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e092d4f76c9e990800000000000000
+      internalID: -7356130266275312061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469d49ff53666e90800000000000000
+      internalID: -7032824504236796341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 131
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28ab49956b03b40800000000000000
+      internalID: 5418030847590302390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 19
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9970814ddb405bb0800000000000000
+      internalID: -4949372576821380705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 128
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2985e583e796d880800000000000000
+      internalID: -8586508636075488977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_16
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 128
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d68edd9c784b8730800000000000000
+      internalID: 4002372393910568656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 128
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353d004a976a64ef0800000000000000
+      internalID: -124228898333338797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 128
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c5e9e6bb51c050800000000000000
+      internalID: 5819033034705716789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113f91b96bc2528e0800000000000000
+      internalID: -1718918519974137071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 86
+        width: 16
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2c13d3f061d960800000000000000
+      internalID: 7624982244450118730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 65
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95e00f34834d6f10800000000000000
+      internalID: 2264540422908994971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 44
+        width: 18
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d4f64478132560800000000000000
+      internalID: 7287695509701317050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 44
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa7b935c605d9c0800000000000000
+      internalID: -3903206057900003535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6510e5a16eda3b70800000000000000
+      internalID: 8879654126290474347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 47
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b104ec3ec85b2d5f0800000000000000
+      internalID: -733324172585975781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_26
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 44
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00d3a15765809630800000000000000
+      internalID: 3931789153492258830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 26
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d63e0cc0573a40800000000000000
+      internalID: 5347831919867778799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 25
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a9488892c1e940800000000000000
+      internalID: 5323750194905981196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 19
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7766b4958c487630800000000000000
+      internalID: 3924971211862730622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c8c9469733b7970800000000000000
+      internalID: 8753646897196731431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2
+        width: 18
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e296894f006d56240800000000000000
+      internalID: 4784465478742993198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Happy Slime_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 20
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de37b3949d07ad2f0800000000000000
+      internalID: -947320693069220883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

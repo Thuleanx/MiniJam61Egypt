@@ -1,0 +1,6 @@
+{
+	"baseSpeed" : 4,
+	"jumpHeight" : 4,
+	"jumpHeightMinimum" : 1,
+	"coyoteTime" : 0.2
+}
