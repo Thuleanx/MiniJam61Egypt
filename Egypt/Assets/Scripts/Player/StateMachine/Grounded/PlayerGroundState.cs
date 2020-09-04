@@ -32,7 +32,8 @@ namespace Thuleanx {
 			} else if (!isGrounded) {
 				player.InAirState.StartCoyoteTime();
 				stateMachine.ChangeState(player.InAirState);
-			}
+			} else if (player.InputHandler.AttackInput && player.AttackState.CanAttack())
+				stateMachine.ChangeState(player.AttackState);
 		}
 	}
 }

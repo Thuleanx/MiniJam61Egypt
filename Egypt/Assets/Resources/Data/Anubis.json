@@ -1,0 +1,10 @@
+{
+	"baseSpeed" : 2.5,
+	"jumpHeight" : 4,
+	"jumpCooldownSeconds" : 2.5,
+	"visionRange" : 8,
+
+	"damage" : 1,
+	"health" : 2,
+	"knockback" : 1
+}

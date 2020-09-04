@@ -25,9 +25,12 @@ namespace Thuleanx {
 		public virtual void Enter() {
 			CheckPhysics();
 			startTime = Time.time;
+			player.Anim.SetBool(animName, true);
 			isAnimationFinished = false;
 		}
-		public virtual void Exit() {}
+		public virtual void Exit() {
+			player.Anim.SetBool(animName, false);
+		}
 		public virtual void LogicUpdate() {}
 		public virtual void PhysicsUpdate() {
 			CheckPhysics();

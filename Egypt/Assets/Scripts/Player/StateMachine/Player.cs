@@ -6,8 +6,7 @@ using Thuleanx;
 namespace Thuleanx
 {
 	[RequireComponent(typeof(PlayerInputHandler))]
-	[RequireComponent(typeof(Rigidbody2D))]
-	public class Player : MonoBehaviour
+	public class Player : Agent
 	{
 		public PlayerData playerData;
 
@@ -19,50 +18,35 @@ namespace Thuleanx
 		public PlayerJumpState JumpState { get; private set; }
 		public PlayerInAirState InAirState { get; private set; }
 		public PlayerLandState LandState {get; private set; }
+		public PlayerAttackState AttackState { get; private set; }
 		#endregion
 
 		#region Components
 		public PlayerInputHandler InputHandler { get; private set; }
-		public Rigidbody2D Body { get; private set; }
-		public SpriteRenderer Sprite {get; private set; }
-		#endregion
-
-		#region Check Variables
-
-		[Header("Check variables")]
-		[SerializeField] Transform groundCheck;
-		[SerializeField] float groundCheckRadius = .3f; 
-		[SerializeField] LayerMask whatIsGround;
-
-		#endregion	
-
-		#region Misc Variables 
-		[HideInInspector]
-		public float FacingDirection = 1;
-		[Header("Animations")]
-		public bool FlipX;
+		public Transform Hand { get; private set; }
 		#endregion
 
 		#region Unity Callback Functions
-		void Awake() {
-			playerData = Thuleanx.IO.JSONReader.Parse<PlayerData>("/Data/Player.json");
+		public override void Awake() {
+			base.Awake();
+			playerData = Thuleanx.IO.JSONReader.Parse<PlayerData>("Data/Player");
 
 			StateMachine = new PlayerStateMachine();
 
-			IdleState = new PlayerIdleState(this, StateMachine, playerData, "idle");
-			MoveState = new PlayerMoveState(this, StateMachine, playerData, "move");
-			JumpState = new PlayerJumpState(this, StateMachine, playerData, "inAir");
-			InAirState = new PlayerInAirState(this, StateMachine, playerData, "inAir");
-			LandState = new PlayerLandState(this, StateMachine, playerData, "land");
-
+			IdleState = new PlayerIdleState(this, StateMachine, playerData, "Idle");
+			MoveState = new PlayerMoveState(this, StateMachine, playerData, "Run");
+			JumpState = new PlayerJumpState(this, StateMachine, playerData, "InAir");
+			InAirState = new PlayerInAirState(this, StateMachine, playerData, "InAir");
+			LandState = new PlayerLandState(this, StateMachine, playerData, "Idle");
+			AttackState = new PlayerAttackState(this, StateMachine, playerData, "Attack");
 
 			InputHandler = GetComponent<PlayerInputHandler>();
-			Body = GetComponent<Rigidbody2D>();
-			Sprite = GetComponentInChildren<SpriteRenderer>();
+			Hand = GameObject.FindGameObjectWithTag("PlayerHand").transform;
 		}
 
 		void Start() {
 			StateMachine.Init(IdleState);
+			Status.Init(playerData.damage, playerData.health, playerData.knockback);
 		}
 
 		void Update() {
@@ -75,31 +59,6 @@ namespace Thuleanx
 
 		#endregion
 
-		#region Setters
-		public void SetVelocityX(float value) {
-			Body.velocity = new Vector2(value, Body.velocity.y);
-		}
-		public void SetVelocityY(float value) {
-			Body.velocity = new Vector2(Body.velocity.x, value);
-		}
-		public void SetVelocity(Vector2 value) {
-			Body.velocity = value;
-		}
-		#endregion
-
-		#region Check Functions
-
-		public bool CheckIfGrounded() {
-			return Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, whatIsGround);
-		}
-
-		public void CheckIfShouldFlip(float xInput) {
-			if (xInput != 0) {
-				FacingDirection = Mathf.Sign(xInput);
-				Sprite.flipX = FacingDirection > 0 ^ FlipX;
-			}
-		}
-		#endregion
 
 		#region Animations
 		public void AnimationTrigger() => StateMachine.CurrentState.AnimationTrigger();

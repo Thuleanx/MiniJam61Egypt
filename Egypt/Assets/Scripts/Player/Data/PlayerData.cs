@@ -4,5 +4,6 @@ using UnityEngine;
 
 public class PlayerData
 {
-	public float baseSpeed, jumpHeight, jumpHeightMinimum, coyoteTime;	
+	public float baseSpeed, jumpHeight, jumpHeightMinimum, coyoteTime, attackCooldownSeconds, attackProjectileSpeed;	
+	public float health, damage, knockback;
 }

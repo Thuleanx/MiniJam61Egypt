@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlayerHand
+  - FogGateNext
   layers:
   - Default
   - TransparentFX
@@ -29,15 +31,36 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Interactable
+  - Projectile
+  - HurtHostile
+  - HitHostile
+  - HurtFriend
+  - HitFriend
   - Ground
   - Entities
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 524421543
+    locked: 0
+  - name: Background
+    uniqueID: 2248146239
+    locked: 0
+  - name: Decor
+    uniqueID: 2184501213
+    locked: 0
+  - name: Ground
+    uniqueID: 1585387593
+    locked: 0
+  - name: DecorFront
+    uniqueID: 2817391161
+    locked: 0
+  - name: Entities
+    uniqueID: 1633175113
+    locked: 0
+  - name: FX
+    uniqueID: 2280467315
     locked: 0

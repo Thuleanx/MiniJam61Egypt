@@ -1,0 +1,81 @@
+[
+	{
+		"tag" : "PlayerAttack",
+		"prefabLocation" : "/Prefab/Projectile/PlayerAttack",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Bridge0",
+		"prefabLocation" : "/Prefab/Bridge/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Ground0",
+		"prefabLocation" : "/Prefab/Below/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room0-0",
+		"prefabLocation" : "/Prefab/Room/0/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room0-1",
+		"prefabLocation" : "/Prefab/Room/0/1",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room1-0",
+		"prefabLocation" : "/Prefab/Room/1/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room1-1",
+		"prefabLocation" : "/Prefab/Room/1/1",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room2-0",
+		"prefabLocation" : "/Prefab/Room/2/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room2-1",
+		"prefabLocation" : "/Prefab/Room/2/1",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room3-0",
+		"prefabLocation" : "/Prefab/Room/3/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room3-1",
+		"prefabLocation" : "/Prefab/Room/3/1",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room4-0",
+		"prefabLocation" : "/Prefab/Room/4/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room4-1",
+		"prefabLocation" : "/Prefab/Room/4/1",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room5-0",
+		"prefabLocation" : "/Prefab/Room/5/0",
+		"defaultCount" : 10
+	},
+	{
+		"tag" : "Room5-1",
+		"prefabLocation" : "/Prefab/Room/5/1",
+		"defaultCount" : 10
+	},{
+		"tag" : "Anubis",
+		"prefabLocation" : "/Prefab/Mob/Anubis",
+		"defaultCount" : 10
+	}
+]

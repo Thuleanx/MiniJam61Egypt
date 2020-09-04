@@ -1,0 +1,12 @@
+{
+	"baseSpeed" : 4,
+	"jumpHeight" : 6,
+	"jumpHeightMinimum" : 1,
+	"coyoteTime" : 0.2,
+	"attackCooldownSeconds" : 0.5,
+	"attackProjectileSpeed" : 10,
+
+	"damage" : 1,
+	"health" : 10,
+	"knockback" : 0.2
+}

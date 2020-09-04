@@ -53,6 +53,9 @@ namespace Thuleanx {
 					player.CheckIfShouldFlip(player.InputHandler.MovementInput.x);
 					player.SetVelocityX(playerData.baseSpeed * player.InputHandler.MovementInput.x);
 				}
+
+				if (player.InputHandler.AttackInput && player.AttackState.CanAttack())
+					stateMachine.ChangeState(player.AttackState);
 			}
 		}
 
